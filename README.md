@@ -1,5 +1,5 @@
 Boas vindas ao meu perfil 💙💟
-Meu nome é Camilla Silva
+- Meu nome é Camilla Silva
 
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem JavaScript
